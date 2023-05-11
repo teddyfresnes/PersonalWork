@@ -1,0 +1,2 @@
+sh troopers.sh
+pause
